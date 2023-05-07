@@ -1,3 +1,2 @@
-c:/OSPanel/domains/todo/test/ATI.2021.v25.10.1.39287.7z filter=lfs diff=lfs merge=lfs -text
 ATI.2021.v25.10.1.39287.7z filter=lfs diff=lfs merge=lfs -text
 *.7z filter=lfs diff=lfs merge=lfs -text
