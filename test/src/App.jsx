@@ -1,6 +1,7 @@
 import { useState } from 'react'
 
 import gogaLogo from '/photo.jpg'
+import gogaLogo from '/photo2.jpg'
 import './App.css'
 
 function App() {
@@ -30,6 +31,11 @@ function App() {
 Мальчику ничего не оставалось, как выучиться чтению.
 
 После этого Гога полюбил чтение и прочел много других интересных книг.. </h3>
+  <div>
+
+          <img src={gogaLogo2} className="goga" alt="goga Logo2" />
+       
+      </div>
       <div className="card">
         {/* <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
