@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
+import gogaLogo from '/photo.jpg'
 import './App.css'
 
 function App() {
@@ -14,6 +15,9 @@ function App() {
         </a>
         <a href="https://react.dev" target="_blank">
           <img src={reactLogo} className="logo react" alt="React logo" />
+        </a>
+
+          <img src={gogaLogo} className="logo react" alt="goga Logo" />
         </a>
       </div>
       <h1>2 В моей жизни недавно произошёл пиздец, и сейчас я вынужден работать курьером яндекса и сбермаркета, позавчера бреду я по тротуару и меня пропускает чёрный внедорожник выезжающий со двора, потом он догоняет меня на светофоре, за рулем мужик, рядом с ним пацан лет 12, взади женщина, и он спрашивает у меня, работаешь в доставке?
