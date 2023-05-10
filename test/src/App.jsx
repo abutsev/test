@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 import gogaLogo from "/photo.jpg";
-import gogaLogo from "/photo2.jpg";
+import gogaLogo2 from "/photo2.jpg";
 
 import "./App.css";
 
