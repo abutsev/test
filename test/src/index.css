@@ -16,7 +16,7 @@
 
 img {
   height: auto;
-  width: 100%;
+  min-width: 100%;
   max-width: 720px;
   padding: 0px;
   margin: 0px;
